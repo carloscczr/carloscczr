@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carloscczr
-- 👀 I’m interested in stattistics and dahsboard develops applied to geoscience 
+- 👀 I’m interested in statistics and dahsboard develops applied to geoscience 
 - 🌱 I’m currently learning about dashboards and compositional data analysis  
 - 📫 How to reach me:
         - Linkedin: https://www.linkedin.com/in/carloszuluetar/
